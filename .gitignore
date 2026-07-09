@@ -1,3 +1,5 @@
 .python-version
 pyproject.toml
 uv.lock
+game_state.jsonl
+__pycache__/
