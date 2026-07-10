@@ -3,3 +3,4 @@ pyproject.toml
 uv.lock
 game_state.jsonl
 __pycache__/
+game_events.jsonl
